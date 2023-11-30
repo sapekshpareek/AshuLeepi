@@ -21,7 +21,9 @@ It is a very ancient shorthand system that maps its strokes using Hindi characte
 
 **Fonts:** Calligrapher
 
-**Model:** TensorFlow, OpenCV2
+**Model:** TensorFlow, Keras
+
+**Dataset:** Photoshop, Illustrator
 
 
 ## Feedback
